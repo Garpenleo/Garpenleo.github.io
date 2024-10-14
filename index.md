@@ -3,25 +3,25 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Esta es una plantilla *básica* para crear un sitio Jekyll que utilice el tema [Just the Docs]. Puede configurar fácilmente el sitio creado para que se publique en [Páginas de GitHub]; el archivo [README] explica cómo hacerlo, junto con otros detalles.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Si [Jekyll] está instalado en su computadora, también puede crear y obtener una vista previa del sitio creado *localmente*. Esto le permite probar los cambios antes de confirmarlos y evita tener que esperar a GitHub Pages.[^1] Y podrá implementar su compilación local en una plataforma diferente a GitHub Pages.
 
-More specifically, the created site:
+Más específicamente, el sitio creado:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- utiliza un enfoque basado en gemas, es decir, utiliza un `Gemfile` y carga la gema `just-the-docs`
+- utiliza el [flujo de trabajo de páginas/acciones de GitHub] para crear y publicar el sitio en páginas de GitHub
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Aparte de eso, eres libre de personalizar los sitios que crees con esta plantilla, como quieras. Puede cambiar fácilmente las versiones de `just-the-docs` y Jekyll que utiliza, además de agregar más complementos.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+[Consulte nuestra documentación][Solo los documentos] para obtener más información sobre cómo utilizar este tema.
 
-To get started with creating a site, simply:
+Para comenzar a crear un sitio, simplemente:
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+1. haga clic en "[usar esta plantilla]" para crear un repositorio de GitHub
+2. vaya a Configuración > Páginas > Compilación e implementación > Fuente y seleccione Acciones de GitHub
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Si desea mantener sus documentos en el directorio `docs` de un repositorio de proyecto existente, consulte [Alojar sus documentos desde un repositorio de proyecto existente](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
 
