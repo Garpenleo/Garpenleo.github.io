@@ -1,11 +1,18 @@
 ---
-title: comunismo
+title: Mapaches
 layout: home
 ---
+Es un animal de bosque, especialmente cerca de ríos, aunque ha aprendido a vivir también en áreas habitadas. En su hábitat natural come de todo, desde ranas hasta frutos, pero en las ciudades y suburbios echa mano de los contenedores de basura para comerse los restos de alimentos arrojados en ellos. Los mapaches son nocturnos, tienen un agudo sentido del olfato y son buenos trepadores.
 
-El comunismo (del latín communis, «común, compartido, entre hombres») es un movimiento político y socioeconómico surgido en el siglo XIX que aboga por un cambio radical en la estructura de la sociedad y en el modo de organización socioeconómica a una sociedad comunista caracterizada por la propiedad en común de los medios de producción, así como por la inexistencia de clases sociales, del mercado y del Estado (o Estado-nación) en su forma actual.
+Comparados con la mayoría de los mamíferos carnívoros, son muy diestros con sus zarpas delanteras, que utilizan para agarrar y sostener la comida. El mapache es llamado a veces oso lavador por el hábito de manipular el alimento, por ejemplo, desollando las ranas, en la orilla del agua, lo cual hace parecer que las lava. Hace esto porque ciertas clases de ranas inflan su cuerpo y segregan un veneno a través de su piel para no ser ingeridas, lo cual el mapache elimina al "lavar" sus alimentos antes de comerlos.
 
-El comunismo incluye una variedad de escuelas de pensamiento. La visión filosófica de una sociedad comunitaria tiene antecedentes hasta la República de Platón y en los primeros cristianos (comunismo primitivo). El comunismo, como proyecto de socialización de los medios de producción, surgió en el siglo XVI, bajo la forma de diversas teorías económicas basadas en el colectivismo agrario. Las más conocidas fueron la obra Utopía, de Tomás Moro, Ciudad del Sol de Tomás Campanella y la ideología revolucionaria babuvina, que derivó del movimiento jacobino de la Revolución francesa.​ El ideario comunista se convirtió, a comienzos del siglo XIX, en un complejo proyecto económico, gracias a las diferentes corrientes del llamado socialismo utópico, del anarquismo y de las ramas obreras del socialismo y comunismo cristiano. El socialismo industrial de Henri de Saint-Simon sería un antecedente clave en el desarrollo de la organización política del comunismo actual.
+La esperanza de vida de los mapaches varía según el entorno en el que se encuentren. En la selva, donde estos animales viven en libertad, su vida puede ser bastante corta debido a los peligros que enfrentan, como la depredación, enfermedades y la competencia por recursos. En promedio, un mapache en la selva vive entre 2 y 3 años.
+
+Por otro lado, cuando los mapaches son domesticados y viven en cautiverio, su esperanza de vida puede aumentar significativamente. Si se les proporciona un ambiente adecuado, una dieta equilibrada y atención médica regular, pueden vivir hasta 20 años. Sin embargo, es importante destacar que la vida en cautiverio puede tener efectos negativos en su salud y comportamiento, ya que se alejan de su entorno natural.
+
+Tiene un tamaño mediano y puede llegar a medir entre 40 cm y 55 cm de alto. Es un poco mayor y más grueso que un gato, de pelo medianamente largo y de color gris plateado (más oscuro en el centro del lomo), el pelo de las extremidades casi blanco, cola larga y anillada (gris plateado con blanco o casi blanco) y una característica mancha de pelo negro que va desde cada mejilla a cada ojo, lo que lo hace muy reconocible, pues parece que lleva un antifaz. En ocasiones se sienta sobre sus cuartos traseros (muslos y glúteos), como hacen los osos, y, como ellos, es de patas traseras plantígradas. En sus extremidades posee cinco dedos largos y ágiles (el tacto es su sentido predominante). Puede pesar hasta 15 kg.
+
+Las manos de los mapaches tienen ciertas similitudes con las de los primates, producto de la convergencia evolutiva, ya que no están estrechamente relacionados entre sí. Su distribución de los dedos es ideal para que sea capaz de apretar y manipular objetos, aunque no presentan un pulgar oponible
 
 
 ----
