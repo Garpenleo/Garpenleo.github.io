@@ -1,25 +1,11 @@
 ---
-title: Home
+title: comunismo
 layout: home
 ---
 
-Esta es una plantilla *básica* para crear un sitio Jekyll que utilice el tema [Just the Docs]. Puede configurar fácilmente el sitio creado para que se publique en [Páginas de GitHub]; el archivo [README] explica cómo hacerlo, junto con otros detalles.
+El comunismo (del latín communis, «común, compartido, entre hombres»)1​ es un movimiento político y socioeconómico surgido en el siglo XIX que aboga por un cambio radical en la estructura de la sociedad y en el modo de organización socioeconómica a una sociedad comunista caracterizada por la propiedad en común de los medios de producción, así como por la inexistencia de clases sociales, del mercado y del Estado (o Estado-nación) en su forma actual.
 
-Si [Jekyll] está instalado en su computadora, también puede crear y obtener una vista previa del sitio creado *localmente*. Esto le permite probar los cambios antes de confirmarlos y evita tener que esperar a GitHub Pages.[^1] Y podrá implementar su compilación local en una plataforma diferente a GitHub Pages.
-
-Más específicamente, el sitio creado:
-
-- utiliza un enfoque basado en gemas, es decir, utiliza un `Gemfile` y carga la gema `just-the-docs`
-- utiliza el [flujo de trabajo de páginas/acciones de GitHub] para crear y publicar el sitio en páginas de GitHub
-
-Aparte de eso, eres libre de personalizar los sitios que crees con esta plantilla, como quieras. Puede cambiar fácilmente las versiones de `just-the-docs` y Jekyll que utiliza, además de agregar más complementos.
-
-[Consulte nuestra documentación][Solo los documentos] para obtener más información sobre cómo utilizar este tema.
-
-Para comenzar a crear un sitio, simplemente:
-
-1. haga clic en "[usar esta plantilla]" para crear un repositorio de GitHub
-2. vaya a Configuración > Páginas > Compilación e implementación > Fuente y seleccione Acciones de GitHub
+El comunismo incluye una variedad de escuelas de pensamiento. La visión filosófica de una sociedad comunitaria tiene antecedentes hasta la República de Platón y en los primeros cristianos (comunismo primitivo). El comunismo, como proyecto de socialización de los medios de producción, surgió en el siglo XVI, bajo la forma de diversas teorías económicas basadas en el colectivismo agrario. Las más conocidas fueron la obra Utopía, de Tomás Moro, Ciudad del Sol de Tomás Campanella1​ y la ideología revolucionaria babuvina, que derivó del movimiento jacobino de la Revolución francesa.8​ El ideario comunista se convirtió, a comienzos del siglo XIX, en un complejo proyecto económico, gracias a las diferentes corrientes del llamado socialismo utópico, del anarquismo y de las ramas obreras del socialismo y comunismo cristiano. El socialismo industrial de Henri de Saint-Simon sería un antecedente clave en el desarrollo de la organización política del comunismo actual.
 
 Si desea mantener sus documentos en el directorio `docs` de un repositorio de proyecto existente, consulte [Alojar sus documentos desde un repositorio de proyecto existente](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
