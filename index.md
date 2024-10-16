@@ -2,7 +2,10 @@
 title: Home
 layout: home
 ---
-
+---
+layout: minimal
+title: citroen c15
+---
 Esta es una plantilla *básica* para crear un sitio Jekyll que utilice el tema [Just the Docs]. Puede configurar fácilmente el sitio creado para que se publique en [Páginas de GitHub]; el archivo [README] explica cómo hacerlo, junto con otros detalles.
 
 Si [Jekyll] está instalado en su computadora, también puede crear y obtener una vista previa del sitio creado *localmente*. Esto le permite probar los cambios antes de confirmarlos y evita tener que esperar a GitHub Pages.[^1] Y podrá implementar su compilación local en una plataforma diferente a GitHub Pages.
