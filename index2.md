@@ -14,7 +14,7 @@ Tiene un tamaño mediano y puede llegar a medir entre 40 cm y 55 cm de alto. Es 
 
 Las manos de los mapaches tienen ciertas similitudes con las de los primates, producto de la convergencia evolutiva, ya que no están estrechamente relacionados entre sí. Su distribución de los dedos es ideal para que sea capaz de apretar y manipular objetos, aunque no presentan un pulgar oponible
 
-![] (https://www.google.com/imgres?q=mapache&imgurl=http%3A%2F%2Fwww.ciudad17.com%2FNaturaleza%2Fwp-content%2Fuploads%2Fmapache.jpg&imgrefurl=http%3A%2F%2Fwww.ciudad17.com%2FNaturaleza%2Fanimales%2Fmamiferos%2Fmapache.html&docid=mJn-G0Gv1F_ycM&tbnid=zE-Iheiy6ehEkM&vet=12ahUKEwiw8-fk65KJAxWp3wIHHSlbAkIQM3oECFAQAA..i&w=800&h=571&hcb=2&ved=2ahUKEwiw8-fk65KJAxWp3wIHHSlbAkIQM3oECFAQAA)
+![] (https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.ciudad17.com%2FNaturaleza%2Fanimales%2Fmamiferos%2Fmapache.html&psig=AOvVaw2AhITGNuSTRnGiBJ-WdPAX&ust=1729166089306000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDDo9TtkokDFQAAAAAdAAAAABAE)
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
