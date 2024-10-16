@@ -3,25 +3,13 @@ title: Pokémon
 layout: home
 ---
 
-Esta es una plantilla *básica* para crear un sitio Jekyll que utilice el tema [Just the Docs]. Puede configurar fácilmente el sitio creado para que se publique en [Páginas de GitHub]; el archivo [README] explica cómo hacerlo, junto con otros detalles.
+Pokémon (ポケモン Pokemon?) es una franquicia de medios que originalmente comenzó como un videojuego RPG, pero debido a su popularidad ha logrado expandirse a otros medios de entretenimiento como series de televisión, películas, juegos de cartas, ropa, entre otros, convirtiéndose en una marca que es reconocida en el mercado mundial. Las ventas de videojuegos hasta el 1 de diciembre de 2006 habían alcanzado una cantidad de 340 millones de ejemplares (incluyendo la venta de la versión Pikachu de la consola Nintendo 64), logrando ocupar el segundo lugar de las sagas de videojuegos más vendidos de Nintendo.​ La franquicia celebró su décimo aniversario el 27 de febrero de 2006.
 
-Si [Jekyll] está instalado en su computadora, también puede crear y obtener una vista previa del sitio creado *localmente*. Esto le permite probar los cambios antes de confirmarlos y evita tener que esperar a GitHub Pages.[^1] Y podrá implementar su compilación local en una plataforma diferente a GitHub Pages.
+La saga de videojuegos es desarrollada por la compañía programadora de software japonesa Game Freak, con personajes creados por Satoshi Tajiri para la empresa de juguetes Creatures Inc., y a su vez distribuida por Nintendo. La misión en estos juegos es capturar y entrenar a los pokémon (criaturas cuya denominación da nombre al juego), que hasta la fecha alcanzan el número de 1025 (1172 incluyendo formas regionales y mecánicas exclusivas procedentes de otras entregas). La posibilidad de intercambiarlos le hizo conseguir una popularidad que se plasmó en un éxito de ventas y la consiguiente aparición de una serie animada, películas y diverso merchandising como peluches, juguetes y cartas.
 
-Más específicamente, el sitio creado:
+La producción de los videojuegos, serie de anime y demás material para su distribución en occidente fue realizada en Estados Unidos por 4Kids Entertainment hasta noviembre de 2005, momento en que decidió no renovar su contrato con Pokémon USA (una subsidiaria de Pokémon Company). Actualmente esta supervisa todo lo referente al material de Pokémon en su distribución en occidente.5
 
-- utiliza un enfoque basado en gemas, es decir, utiliza un `Gemfile` y carga la gema `just-the-docs`
-- utiliza el [flujo de trabajo de páginas/acciones de GitHub] para crear y publicar el sitio en páginas de GitHub
-
-Aparte de eso, eres libre de personalizar los sitios que crees con esta plantilla, como quieras. Puede cambiar fácilmente las versiones de `just-the-docs` y Jekyll que utiliza, además de agregar más complementos.
-
-[Consulte nuestra documentación][Solo los documentos] para obtener más información sobre cómo utilizar este tema.
-
-Para comenzar a crear un sitio, simplemente:
-
-1. haga clic en "[usar esta plantilla]" para crear un repositorio de GitHub
-2. vaya a Configuración > Páginas > Compilación e implementación > Fuente y seleccione Acciones de GitHub
-
-Si desea mantener sus documentos en el directorio `docs` de un repositorio de proyecto existente, consulte [Alojar sus documentos desde un repositorio de proyecto existente](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Actualmente la franquicia de pokémon ha alcanzado la cifra de 500 millones ejemplares lo largo de los años
 
 ----
 
