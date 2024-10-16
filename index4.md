@@ -1,7 +1,7 @@
 ---
 title: Citroen c15
 layout: home
-parent: coches
+parent: Coches
 ---
 
 g
