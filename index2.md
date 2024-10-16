@@ -14,7 +14,7 @@ Tiene un tamaño mediano y puede llegar a medir entre 40 cm y 55 cm de alto. Es 
 
 Las manos de los mapaches tienen ciertas similitudes con las de los primates, producto de la convergencia evolutiva, ya que no están estrechamente relacionados entre sí. Su distribución de los dedos es ideal para que sea capaz de apretar y manipular objetos, aunque no presentan un pulgar oponible
 
-![mapaches](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fes%2Fs%2Ffotos%2Fraccoon&psig=AOvVaw2AhITGNuSTRnGiBJ-WdPAX&ust=1729166089306000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDDo9TtkokDFQAAAAAdAAAAABAJ)
+![mapaches]("D:\garpenleo\iso\Captura de pantalla 2024-09-13 111339.png")
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
