@@ -1,6 +1,7 @@
 ---
-title: Home
+title: Citroen c15
 layout: home
+parent: coches
 ---
 
 Esta es una plantilla *básica* para crear un sitio Jekyll que utilice el tema [Just the Docs]. Puede configurar fácilmente el sitio creado para que se publique en [Páginas de GitHub]; el archivo [README] explica cómo hacerlo, junto con otros detalles.
