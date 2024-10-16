@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Pokémon
 layout: home
 ---
 
