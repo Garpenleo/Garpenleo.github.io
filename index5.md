@@ -1,9 +1,11 @@
 ---
-title: Volkswagen t1
+title: Volkswagen 
 layout: home
 parent: Coches
 ---
-El automóvil (también conocido como auto, coche o carro en algunos países hispanoamericanos) es un vehículo motorizado con ruedas utilizado para el transporte. Está compuesto por diversas partes, como motor, chasis, tipo de carrocería y sistemas de dirección, frenos y suspensión. La mayoría de las definiciones de automóvil hacen referencia a los vehículos que circulan principalmente por las carreteras, con capacidad de una a ocho personas. Cuentan con cuatro neumáticos y transportan principalmente a personas, antes que mercancías.
+Volkswagen significa «automóvil del pueblo» en alemán. El eslogan internacional de la empresa fue «Das Auto» («El automóvil»), aunque debido al escándalo de emisiones contaminantes de vehículos Volkswagen buscó cambiarlo a algo más humilde y menos pretencioso, por lo que, a principios de 2016, ha sido simplemente «"Volkswagen"».
+
+Volkswagen tiene tres modelos en la lista de 10 coches más vendidos de todos los tiempos: Golf, Escarabajo y Passat. Con estos tres coches, el fabricante tiene más en la lista que aquellos de cualquier otro fabricante que continúan produciendo, según Wall Street.
 
 ----
 
