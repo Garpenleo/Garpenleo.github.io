@@ -15,7 +15,7 @@ Actualmente la franquicia de pokémon ha alcanzado la cifra de 500 millones ejem
 
 ![rowlet](https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d6/latest/20230303220348/Rowlet_Caf%C3%A9_Mix.png/200px-Rowlet_Caf%C3%A9_Mix.png)
 
-![drampa](https://static.wikia.nocookie.net/espokemon/images/d/d6/Drampa_HOME.png/revision/latest?cb=20221101172913)
+![drampa](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/780.png)
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
