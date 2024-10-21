@@ -4,7 +4,7 @@ layout: home
 parent: Volkswagen
 ---
 
-![coche]([https://erclassics.b-cdn.net/media/catalog/product/cache/2/image/700x/17f82f742ffe127f42dca9de82fb58b1/v/o/volkswagen-t1-1967-v4171-037.jpg](https://i.etsystatic.com/12534072/r/il/24d745/998138270/il_570xN.998138270_s91l.jpg))
+![coche](https://i.etsystatic.com/12534072/r/il/24d745/998138270/il_570xN.998138270_s91l.jpg)
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
