@@ -2,6 +2,8 @@
 title: Mapaches
 layout: home
 ---
+# Mapache
+
 Es un animal de bosque, especialmente cerca de ríos, aunque ha aprendido a vivir también en áreas habitadas. En su hábitat natural come de todo, desde ranas hasta frutos, pero en las ciudades y suburbios echa mano de los contenedores de basura para comerse los restos de alimentos arrojados en ellos. Los mapaches son nocturnos, tienen un agudo sentido del olfato y son buenos trepadores.
 
 Comparados con la mayoría de los mamíferos carnívoros, son muy diestros con sus zarpas delanteras, que utilizan para agarrar y sostener la comida. El mapache es llamado a veces oso lavador por el hábito de manipular el alimento, por ejemplo, desollando las ranas, en la orilla del agua, lo cual hace parecer que las lava. Hace esto porque ciertas clases de ranas inflan su cuerpo y segregan un veneno a través de su piel para no ser ingeridas, lo cual el mapache elimina al "lavar" sus alimentos antes de comerlos.
