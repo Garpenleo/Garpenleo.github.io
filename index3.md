@@ -14,7 +14,6 @@ Actualmente la franquicia de pokémon ha alcanzado la cifra de 500 millones ejem
 
 
 ![rowlet](https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d6/latest/20230303220348/Rowlet_Caf%C3%A9_Mix.png/200px-Rowlet_Caf%C3%A9_Mix.png)
-
 ![drampa](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/780.png)
 ----
 
