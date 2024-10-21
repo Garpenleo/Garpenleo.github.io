@@ -11,6 +11,8 @@ La saga de videojuegos es desarrollada por la compañía programadora de softwar
 La producción de los videojuegos, serie de anime y demás material para su distribución en occidente fue realizada en Estados Unidos por 4Kids Entertainment hasta noviembre de 2005, momento en que decidió no renovar su contrato con Pokémon USA (una subsidiaria de Pokémon Company). Actualmente esta supervisa todo lo referente al material de Pokémon en su distribución en occidente.5
 
 Actualmente la franquicia de pokémon ha alcanzado la cifra de 500 millones ejemplares lo largo de los años
+
+
 ![rowlet](https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d6/latest/20230303220348/Rowlet_Caf%C3%A9_Mix.png/200px-Rowlet_Caf%C3%A9_Mix.png)
 ----
 
