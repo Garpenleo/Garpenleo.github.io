@@ -8,6 +8,7 @@ Citroën C15 es una furgoneta pequeña que fue producida por el fabricante franc
 
 El nombre de la furgoneta, C15, se refiere a su P.T.A.C., que es de 1,5 toneladas.
 
+![c15](https://img.remediosdigitales.com/ba4560/citroen-c15/450_1000.jpg)
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
